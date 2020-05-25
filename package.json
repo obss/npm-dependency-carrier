@@ -1,13 +1,16 @@
 {
   "name": "@obss/npm-dependency-carrier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tar installed packages from a project that has internet connection, and publish to custom repository without internet",
   "main": "index.js",
   "bin": {
     "ndc": "ndc.js"
   },
   "author": "yalim.yasaroglu@gmail.com",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/obss/npm-dependency-carrier"
+  },
   "dependencies": {
     "chalk": "2.4.2",
     "commander": "5.0.0",
