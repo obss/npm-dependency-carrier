@@ -1,6 +1,6 @@
 {
   "name": "@obss/npm-dependency-carrier",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tar installed packages from a project that has internet connection, and publish to custom repository without internet",
   "main": "index.js",
   "bin": {
