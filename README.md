@@ -42,7 +42,7 @@ This is a step by step explanation of the process. This example assumes that you
 1. On an internet machine run `git clone https://github.com/obss/.npm-dependency-carrier.git` and go to project folder.
 2. On the same machine install project `npm install`.
 3. On the same machine run `ndc index`.
-4. Copy project, minus node_modules folder to air gapped machine.
+4. Copy project folder to air gapped machine.
 5. On airgapped machine, run `node ndc.js compare -r [private npm group registry]` in project folder.
 6. Move `ndc-lock.json` from airgapped machine to internet machine project directory.
 7. On internet machine, run `ndc fetch -r [private npm group registry]` in project folder.
