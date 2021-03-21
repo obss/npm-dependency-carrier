@@ -27,7 +27,7 @@
     "normalize-package-data": "2.5.0",
     "npm-package-arg": "8.0.0",
     "npm-registry-fetch": "8.1.1",
-    "ssri": "8.0.0",
+    "ssri": "8.0.1",
     "libnpmconfig": "1.2.1",
     "libnpmpublish": "3.0.1"
   }
