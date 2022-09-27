@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This repository is deprecated.
+
 # npm-dependency-carrier
 
 npm-dependency-carrier is a command line tool to carry npm dependencies between various npm registries that may or may not have internet connection.
